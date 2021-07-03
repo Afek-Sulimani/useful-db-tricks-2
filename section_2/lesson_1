@@ -2,3 +2,5 @@ SELECT * FROM film;
 select title from film;
 select count(*) from film;
 select count(distinct(rental_rate)) from film;
+git diff will show this line
+afek sulimanod
