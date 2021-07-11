@@ -1,0 +1,3 @@
+SELECT * FROM payment
+WHERE amount NOT IN ('1.99','0.99','8.99')
+ORDER BY amount;
